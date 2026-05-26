@@ -159,5 +159,10 @@
 
         </plugins>
     </build>
+    <profiles>
+    <profile>
+        <id>production</id>
+    </profile>
+</profiles>
 
 </project>
